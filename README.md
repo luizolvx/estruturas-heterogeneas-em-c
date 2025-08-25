@@ -48,13 +48,11 @@ typedef struct {
 - Melhores práticas de organização de código
 - Tratamento de strings com fgets
 
-...
+#### ------ Dados do Funcionario 1 -------
+- Nome do Funcionario: João Silva
+- ID do Funcionario: 101
+- Idade do Funcionario: 32
+- Salario do Funcionario: 4500.00
 
------- Dados do Funcionario 1 -------
-Nome do Funcionario: João Silva
-ID do Funcionario: 101
-Idade do Funcionario: 32
-Salario do Funcionario: 4500.00
-
------- Salários Corrigidos -------
-Nome: João Silva | Novo Salario: 4950.00
+#### ------ Salários Corrigidos -------
+- Nome: João Silva | Novo Salario: 4950.00
